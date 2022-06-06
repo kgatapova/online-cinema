@@ -31,4 +31,4 @@
 
 Постеры, кнопка "стереть" и элементы истории поиска реагируют на наведение мыши
 
-![hover screenshot](https://github.com/kgatapova/online-cinema/blob/main/screenshots/hover.PNG)
+![hover screenshot](screenshots/hover.png)
